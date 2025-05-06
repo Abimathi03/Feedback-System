@@ -35,8 +35,8 @@ A full-stack feedback collection application built with **React** (frontend) and
 
 1. **Clone the repository:**
 
-   bash - git clone https://github.com/Abimathi03/feedback_system.git
-   bash - cd feedback_system
+   bash - https://github.com/Abimathi03/Feedback-System.git
+   bash - cd Feedback-System
 
 3. **Install backend dependencies:**
 
